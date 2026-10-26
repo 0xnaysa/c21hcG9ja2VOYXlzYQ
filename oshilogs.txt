@@ -12,35 +12,51 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naysa =====
-[1]Naysa       |09:28:26 | 25-10-2026| login OK @znaysaa | score=2130 rank=3497
-[1]Naysa       |09:28:26 | 25-10-2026| serverTime=2026-10-25T09:28:26.000Z local=2026-10-25T09:28:26.683Z
+[1]Naysa       |10:36:08 | 26-10-2026| login OK @znaysaa | score=2150 rank=3581
+[1]Naysa       |10:36:08 | 26-10-2026| serverTime=2026-10-26T10:36:08.000Z local=2026-10-26T10:36:08.126Z
 --> [1]Naysa menjalankan: Claim Daily
-[1]Naysa       |09:28:27 | 25-10-2026| daily: OK +10 poin score=2140
---> [1]Naysa menjalankan: Auto All Tasks (1 pending)
-[1]Naysa       |09:28:28 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211423827431117 | proof=https://x.com/znaysaa/status/2114287431282042418
-[1]Naysa       |09:28:28 | 25-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Naysa       |09:28:30 | 25-10-2026| [1/1] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4262aa80-b03f-4114-9c19-6ea2ed6b390a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114238274311176 | proof=https://x.com/znaysaa/status/2114287512754267981
+[1]Naysa       |10:36:09 | 26-10-2026| daily: OK +10 poin score=2160
+--> [1]Naysa menjalankan: Auto All Tasks (9 pending)
+[1]Naysa       |10:36:10 | 26-10-2026| [1/9] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114666877809816345
+[1]Naysa       |10:36:10 | 26-10-2026| delay 10s...
+[1]Naysa       |10:36:22 | 26-10-2026| [2/9] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114667127777524379
+[1]Naysa       |10:36:22 | 26-10-2026| delay 10s...
+[1]Naysa       |10:36:34 | 26-10-2026| [3/9] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114666979708337094
+[1]Naysa       |10:36:34 | 26-10-2026| delay 10s...
+[1]Naysa       |10:36:47 | 26-10-2026| [4/9] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114666958715742886
+[1]Naysa       |10:36:47 | 26-10-2026| delay 10s...
+[1]Naysa       |10:36:59 | 26-10-2026| [5/9] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538
+[1]Naysa       |10:36:59 | 26-10-2026| delay 10s...
+[1]Naysa       |10:37:11 | 26-10-2026| [6/9] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114667218267956578
+[1]Naysa       |10:37:11 | 26-10-2026| delay 10s...
+[1]Naysa       |10:37:23 | 26-10-2026| [7/9] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114667276314050223
+[1]Naysa       |10:37:23 | 26-10-2026| delay 10s...
+[1]Naysa       |10:37:35 | 26-10-2026| [8/9] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114667408894527882
+[1]Naysa       |10:37:35 | 26-10-2026| delay 10s...
+[1]Naysa       |10:37:47 | 26-10-2026| [9/9] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/znaysaa/status/2114667353942094999
+[1]Naysa       |10:37:47 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naysa       |10:37:48 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/znaysaa/status/2114667454960978414
 --> [1]Naysa menjalankan: Watch Anime
-[1]Naysa       |09:28:31 | 25-10-2026| watch: semua video sudah completed
+[1]Naysa       |10:37:49 | 26-10-2026| watch: semua video sudah completed
 --> [1]Naysa menjalankan: Read Article
-[1]Naysa       |09:28:32 | 25-10-2026| news: 30/30 artikel selesai dibaca
-[1]Naysa       |09:28:33 | 25-10-2026| mint eligibility: {"userId":"1711073400981221376","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Naysa       |09:28:33 | 25-10-2026| news: semua artikel sudah dibaca
+[1]Naysa       |10:37:50 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Naysa       |10:37:51 | 26-10-2026| mint eligibility: {"userId":"1711073400981221376","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Naysa       |10:37:51 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Naysa menjalankan: Quiz Anime
 --> [1]Naysa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Naysa       |09:28:35 | 25-10-2026| music: kedua misi sudah tercapai, stop
-[1]Naysa       |09:28:35 | 25-10-2026| mission music-listens-10: sudah diklaim
-[1]Naysa       |09:28:35 | 25-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naysa       |09:28:35 | 25-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naysa       |10:37:54 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Naysa       |10:37:54 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Naysa       |10:37:54 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naysa       |10:37:54 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naysa menjalankan: Claim Missions
-[1]Naysa       |09:28:36 | 25-10-2026| mission music-listens-10: sudah diklaim
-[1]Naysa       |09:28:36 | 25-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naysa       |09:28:36 | 25-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naysa       |10:37:55 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Naysa       |10:37:55 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naysa       |10:37:55 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naysa menjalankan: Check Eligibility
 
 --- eligibility [1]Naysa ---
-  @znaysaa | score=2130 rank=3497
-  tasks    [--------------------] 0/1
+  @znaysaa | score=2150 rank=3581
+  tasks    [##------------------] 1/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,14 +67,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Naysa menjalankan: Read Manga
-[1]Naysa       |09:28:39 | 25-10-2026| manga: 0/13 chapter belum completed
+[1]Naysa       |10:37:59 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Naysa menjalankan: Get Gift
-[1]Naysa       |09:28:40 | 25-10-2026| gift: 0/4 belum diterima
+[1]Naysa       |10:38:00 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Naysa menjalankan: Setup Profile
-[1]Naysa       |09:28:40 | 25-10-2026| profile: bio="https://x.com/znaysaa" fav=yuki rewardAt=1791685552
-[1]Naysa       |09:28:40 | 25-10-2026| profile: bonus sudah diklaim, skip
+[1]Naysa       |10:38:00 | 26-10-2026| profile: bio="https://x.com/znaysaa" fav=yuki rewardAt=1791685552
+[1]Naysa       |10:38:00 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Naysa menjalankan: Bind Wallet
-[1]Naysa       |09:28:41 | 25-10-2026| wallet: sudah terikat E19Bd8ADTi... (solana)
+[1]Naysa       |10:38:01 | 26-10-2026| wallet: sudah terikat E19Bd8ADTi... (solana)
 
 == RINGKASAN ==
-- Naysa: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Naysa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
