@@ -12,7 +12,64 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naysa =====
-[1]Naysa       |12:33:43 | 06-11-2026| dashboard ERROR: dashboard http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Naysa       |09:38:18 | 07-11-2026| login OK @znaysaa | score=2950 rank=2554
+[1]Naysa       |09:38:18 | 07-11-2026| serverTime=2026-11-07T09:38:18.000Z local=2026-11-07T09:38:18.516Z
+--> [1]Naysa menjalankan: Claim Daily
+[1]Naysa       |09:38:19 | 07-11-2026| daily: OK +10 poin score=2960
+--> [1]Naysa menjalankan: Auto All Tasks (5 pending)
+[1]Naysa       |09:38:21 | 07-11-2026| [1/5] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/znaysaa/status/2119001193735122140
+[1]Naysa       |09:38:21 | 07-11-2026| delay 10s...
+[1]Naysa       |09:38:32 | 07-11-2026| [2/5] 3031f6f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/znaysaa/status/2119001183164289577
+[1]Naysa       |09:38:32 | 07-11-2026| delay 10s...
+[1]Naysa       |09:38:44 | 07-11-2026| [3/5] 191dc55f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/znaysaa/status/2119001256523067853
+[1]Naysa       |09:38:44 | 07-11-2026| delay 10s...
+[1]Naysa       |09:38:56 | 07-11-2026| [4/5] 3511b911 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/znaysaa/status/2119001296920344126
+[1]Naysa       |09:38:56 | 07-11-2026| delay 10s...
+[1]Naysa       |09:39:07 | 07-11-2026| [5/5] 3c85a813 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211889598010401 | proof=https://x.com/znaysaa/status/2119001342165904689
+[1]Naysa       |09:39:07 | 07-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naysa       |09:39:09 | 07-11-2026| [1/1] 00a6a949 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"00a6a949-a91f-4270-b138-7459e5e46a9f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118895980104015 | proof=https://x.com/znaysaa/status/2119001143370503640
+--> [1]Naysa menjalankan: Watch Anime
+[1]Naysa       |09:39:10 | 07-11-2026| watch: semua video sudah completed
+--> [1]Naysa menjalankan: Read Article
+[1]Naysa       |09:39:11 | 07-11-2026| news: 34/34 artikel selesai dibaca
+[1]Naysa       |09:39:13 | 07-11-2026| mint eligibility: {"userId":"1711073400981221376","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Naysa       |09:39:13 | 07-11-2026| news: semua artikel sudah dibaca
+--> [1]Naysa menjalankan: Quiz Anime
+--> [1]Naysa menjalankan: Music Missions (realtime, bisa lama!)
+[1]Naysa       |09:39:15 | 07-11-2026| music: kedua misi sudah tercapai, stop
+[1]Naysa       |09:39:15 | 07-11-2026| mission music-listens-10: sudah diklaim
+[1]Naysa       |09:39:15 | 07-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naysa       |09:39:15 | 07-11-2026| mission anime-completed-3: sudah diklaim
+--> [1]Naysa menjalankan: Claim Missions
+[1]Naysa       |09:39:16 | 07-11-2026| mission music-listens-10: sudah diklaim
+[1]Naysa       |09:39:16 | 07-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naysa       |09:39:16 | 07-11-2026| mission anime-completed-3: sudah diklaim
+--> [1]Naysa menjalankan: Check Eligibility
+
+--- eligibility [1]Naysa ---
+  @znaysaa | score=2950 rank=2554
+  tasks    [###-----------------] 1/6
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [?]
+  watch    [####################] 22/17
+  music    [#################---] 11/13
+  artikel  [####################] 34/34
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Naysa menjalankan: Read Manga
+[1]Naysa       |09:39:19 | 07-11-2026| manga: 0/13 chapter belum completed
+--> [1]Naysa menjalankan: Get Gift
+[1]Naysa       |09:39:21 | 07-11-2026| gift: 3/9 belum diterima
+[1]Naysa       |09:39:22 | 07-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naysa       |09:39:24 | 07-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naysa       |09:39:27 | 07-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+--> [1]Naysa menjalankan: Setup Profile
+[1]Naysa       |09:39:30 | 07-11-2026| profile: bio="https://x.com/znaysaa" fav=yuki rewardAt=1791685552
+[1]Naysa       |09:39:30 | 07-11-2026| profile: bonus sudah diklaim, skip
+--> [1]Naysa menjalankan: Bind Wallet
+[1]Naysa       |09:39:30 | 07-11-2026| wallet: sudah terikat E19Bd8ADTi... (solana)
 
 == RINGKASAN ==
-- Naysa: daily=- | tasks OK 0/0
+- Naysa: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
